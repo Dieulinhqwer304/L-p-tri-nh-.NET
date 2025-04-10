@@ -1,0 +1,10 @@
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.csproj.AssemblyReference.cache
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.frmDMHang.resources
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.Properties.Resources.resources
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.csproj.GenerateResource.cache
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\bin\Debug\btapQLBH.exe.config
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\bin\Debug\btapQLBH.exe
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\bin\Debug\btapQLBH.pdb
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.exe
+C:\Users\TGDD\OneDrive\Máy tính\C#\btapQLBH\obj\Debug\btapQLBH.pdb
